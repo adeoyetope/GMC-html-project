@@ -1,0 +1,84 @@
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size: 3em; color: rgba(116, 226, 43, 0.897); font-weight: bolder;
+}
+
+h3 {
+    color: aqua;
+    background: black;
+}
+img{
+    width: 100%;height: 800px;
+} 
+
+
+li{
+    color: red}
+
+
+p{
+    color: blueviolet; font-size: 2em; font-weight: bold;
+}
+header, footer{
+    color: rgba(25, 0, 255, 0.342);
+}
+a {
+    list-style-position: inherit;
+    text-decoration: none; line-height: 2em; display: block; margin:0;border: 0em; display: contents; display: inline;
+    
+}
+#wa {
+    width: 2em; height: 1.5em; padding: 2em; border-top: 1em;
+}
+ul,li{
+    
+}
+form{
+    background: chartreuse;
+}
+input{
+    width: 99.7%; height: 2em; border:0em;
+}
+select{
+    height: 2em; border: 0em;
+}
+#ss{
+    width: 2em; height: 1.5em; padding: 2em; border-top: 1em;
+}
+#rrr{
+    width: 2em; height: 1.5em; padding: 2em; border-top: 2em;
+}
+#re { background:oldlace; height: 3em; font-size: 2em;}
+#re:hover{
+    background: magenta;
+}
+#ff {
+    position: absolute; font-size: 1em; text-align: right; color: gold; text-decoration: double;
+ }
+ table{
+    border: .2em solid red
+ }
+ td{
+    padding: 1em; border: .2em solid red
+ }
+ th{
+    padding: 1em; border: .2em solid red
+ }
+ table{
+    border-collapse: collapse;
+ }
+ .ws{display: inline-flex;list-style:none ;margin: 2em;
+
+ }
+ li a {margin: 0;}
+ a {
+    padding: 4em; color: rgb(243, 37, 10);
+ }
+ header {
+    font-size: 1em; font-family: Georgia, 'Times New Roman', Times, serif; line-height: 1em;color: black;
+ }
+
+ 
+    
+ 
